@@ -1,0 +1,6 @@
+C:\Users\Prajjawal Upadhyay\source\repos\RegistrationForm\RegistrationForm\obj\Debug\netcoreapp3.1\RegistrationForm.csprojAssemblyReference.cache
+C:\Users\Prajjawal Upadhyay\source\repos\RegistrationForm\RegistrationForm\obj\Debug\netcoreapp3.1\RegistrationForm.Form1.resources
+C:\Users\Prajjawal Upadhyay\source\repos\RegistrationForm\RegistrationForm\obj\Debug\netcoreapp3.1\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\Prajjawal Upadhyay\source\repos\RegistrationForm\RegistrationForm\obj\Debug\netcoreapp3.1\RegistrationForm.AssemblyInfoInputs.cache
+C:\Users\Prajjawal Upadhyay\source\repos\RegistrationForm\RegistrationForm\obj\Debug\netcoreapp3.1\RegistrationForm.AssemblyInfo.cs
+C:\Users\Prajjawal Upadhyay\source\repos\RegistrationForm\RegistrationForm\obj\Debug\netcoreapp3.1\RegistrationForm.csproj.CoreCompileInputs.cache
